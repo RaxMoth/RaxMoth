@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-typing-gif-gifs&psig=AOvVaw3UE3NzDZ3BrTx1SXoS0buM&ust=1667919271808000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMi3-c-pnPsCFQAAAAAdAAAAABAN">
+
+<div class="tenor-gif-embed" data-postid="13655998" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998">Business Cat Working GIF</a>from <a href="https://tenor.com/search/business+cat-gifs">Business Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
