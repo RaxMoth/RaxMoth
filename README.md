@@ -8,6 +8,7 @@
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
 ![](https://github.com/RaxMoth/RaxMoth/blob/main/giphy.gif)
+<img src="(https://github.com/RaxMoth/RaxMoth/blob/main/giphy.gif)" width="40" height="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
