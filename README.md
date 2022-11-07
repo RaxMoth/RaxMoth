@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
-![Alt Text](https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998)
+![Alt Text](https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998](https://tenor.com/5sIc.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
