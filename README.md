@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
-![CatGifs](https://giphy.com/embed/heIX5HfWgEYlW")
+![](http://i.imgur.com/OUkLi.gif)
+
+![](http://i.imgur.com/Ssfp7.gif)
+
+![](http://i.imgur.com/60bts.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
