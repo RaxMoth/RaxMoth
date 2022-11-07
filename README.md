@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-typing-gif-gifs&psig=AOvVaw3UE3NzDZ3BrTx1SXoS0buM&ust=1667919271808000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMi3-c-pnPsCFQAAAAAdAAAAABAN">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maximilian-roth-13717b237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian roth" height="30" width="40" /></a>
