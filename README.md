@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
-![CatGifs](https://tenor.com/5sIc.gif)
+![CatGifs](https://tenor.com/5sIc.gif](https://tenor.com/view/imsickofwork-technologysu-x-at-work-work-cat-typing-gif-13060851)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
