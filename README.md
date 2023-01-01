@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bruteforce_eventmanager_backend](https://github.com/RaxMoth/bruteforce_eventmanager_backend)
 
-- 🌱 I’m currently learning **Flaks and Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **maxfritzroth@gmail.com**
 
