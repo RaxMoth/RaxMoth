@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RaxMoth</h1>
 <h3 align="center">A frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [bruteforce_eventmanager_backend](https://github.com/RaxMoth/bruteforce_eventmanager_backend)
+- 🔭 I just have fun coding small python games and building websites
 
 - 🌱 I’m currently learning **Angular**
 
