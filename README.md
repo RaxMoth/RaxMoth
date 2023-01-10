@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm RaxMoth</h1>
 <h3 align="center">A frontend developer from Germany</h3>
-![ ](https://komarev.com/ghpvc/?username=RaxMoth&color=blue)
+
+![ ](https://komarev.com/ghpvc/?username=RaxMoth)
+
 - 🔭 I just have fun coding small python games and building websites
 
 - 🌱 I’m currently learning **Angular**
