@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Current Projects
-- 🎮 **2 Godot games** — experimenting with gameplay, polish & systems  
-- 🧩 **1 Godot template** — reusable structure for faster prototyping  
-- ⚛️ **A React App** — clean UI and scalable components  
+- 🎮 **2 Godot games** — experimenting with GodotStateCharts and 2D game design
+- 🧩 **1 Godot template** — reusable mobile 2D structure for faster prototyping   
+- ⚛️ **A React App** -  Just to play around ^^
 
 ---
 
