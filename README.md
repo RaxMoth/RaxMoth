@@ -20,4 +20,4 @@
 
 ---
 
-✨ *1 usefull commit a day is my doulingo :D *
+✨ *1 usefull commit a day is my Doulingo :D *
