@@ -19,6 +19,3 @@
   </a>
 </p>
 
----
-
-✨ *** 1 usefull commit a day is my Doulingo :D ***
