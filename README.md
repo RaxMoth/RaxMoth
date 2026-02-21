@@ -5,9 +5,10 @@
 ---
 
 ### 🚀 Current Projects
-- 🎮 **2 Godot games** — experimenting with GodotStateCharts and 2D game design
-- 🧩 **1 Godot template** — reusable mobile 2D structure for faster prototyping   
-- ⚛️ **A React App** -  Just to play around ^^
+- **Ant simulator** — experimenting with Simulations and Ant behaviour
+- **Better Hunt** — a small mobile game just to learn
+- **1 Godot template** — reusable mobile 2D structure for faster prototyping   
+- **Fullstack App template** -  Full FE / BE structure for faster prototyping (React, Terraform, Python and Go)
 
 ---
 
