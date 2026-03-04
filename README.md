@@ -13,7 +13,7 @@ My older projects:
 ### Current Projects
 - **Ant simulator** — experimenting with simulations and ant behaviour
 - **Better Hunt** — a small mobile game just to learn
-- **1 Godot template** — reusable mobile 2D structure for faster prototyping   
+- **Godot template** — reusable mobile 2D structure for faster prototyping   
 
 ---
 
