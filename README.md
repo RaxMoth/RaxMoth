@@ -10,9 +10,16 @@ Just here for the fun of doing little projects
 - **Ant simulator** — experimenting with simulations and ant behaviour
 - **Better Hunt** — a small mobile game just to learn
 - **1 Godot template** — reusable mobile 2D structure for faster prototyping   
-- **Fullstack App template** -  Full FE / BE structure for faster prototyping (React, Terraform, Python and Go)
 
 ---
+
+### Finished Projects
+- **Algolia_matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
+- **SnakeFusion** — Fork to run it on a Raspberry pi with a touch UI
+- **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Terraform, Python and Go)
+
+---
+
 
 ### Connect with Me
 <p align="left">
