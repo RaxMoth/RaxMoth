@@ -7,6 +7,7 @@ Me when I have a fun coding Idea:
 My older projects:
 
 <img src="https://media1.tenor.com/m/OlJDHSw8rfkAAAAd/seal-fat.gif" width="150"/>
+
 ---
 
 ### Current Projects
