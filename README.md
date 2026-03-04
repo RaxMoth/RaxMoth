@@ -1,9 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RaxMoth)
 
-![Cat GIF](https://github.com/RaxMoth/RaxMoth/blob/main/catgif.gif)
+Me when I have a fun coding Idea:
 
+<img src="https://media1.tenor.com/m/LUOHdYdROZQAAAAd/just-do-it-shia-la-beouf.gif" width="150"/>
 
-Just here for the fun of doing little projects
+My older projects:
+
+<img src="https://media1.tenor.com/m/OlJDHSw8rfkAAAAd/seal-fat.gif" width="150"/>
 ---
 
 ### Current Projects
