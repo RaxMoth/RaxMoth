@@ -14,9 +14,16 @@ Just here for the fun of doing little projects
 ---
 
 ### Finished Projects
-- **Algolia_matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
+- **Algolia matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
 - **SnakeFusion** — Fork to run it on a Raspberry pi with a touch UI
 - **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Terraform, Python and Go)
+
+---
+
+### Fun Projects (wont implement further)
+- **Sudoku solver with backtracking** — solve all Sudokus in seconds
+- **RockPagerScissorsSimulator** — rebuild a small game from a trending tweet 
+- **Chess Challenge** -  Participated in a small coding challenge
 
 ---
 
