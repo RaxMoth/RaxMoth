@@ -1,12 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RaxMoth)
 
-Me when I have a fun coding Idea:
-
-<img src="https://media1.tenor.com/m/LUOHdYdROZQAAAAd/just-do-it-shia-la-beouf.gif" width="150"/>
-
-My older projects:
-
-<img src="https://media1.tenor.com/m/oVVo4jxF18IAAAAd/mr-bean-mrbean.gif" width="150"/>
+<h1> My thoughts while debugging:</h1>
+<img src="https://media1.tenor.com/m/j5KhAkyOwTAAAAAd/ron-swanson-throw.gif" width="300"/>
+<h1>Meanwhile my music:</h1>
+<img src="https://media1.tenor.com/m/WU1hT76rBZ4AAAAC/bad-bunny.gif" width="300"/>
 
 ---
 
@@ -14,7 +11,7 @@ My older projects:
 - **Ant simulator** — experimenting with simulations and ant behaviour
 - **Better Hunt** — a small mobile game just to learn
 - **Godot template** — reusable mobile 2D structure for faster prototyping   
-
+- **Ranked** - a leaderboard app
 ---
 
 ### Finished Projects
