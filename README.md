@@ -12,6 +12,7 @@
 - **Better Hunt** — a small mobile game just to learn
 - **Godot template** — reusable mobile 2D structure for faster prototyping   
 - **Ranked** - a leaderboard app
+  
 ---
 
 ### Finished Projects
@@ -25,14 +26,4 @@
 - **Sudoku solver with backtracking** — solve all Sudokus in seconds
 - **RockPagerScissorsSimulator** — rebuild a small game from a trending tweet 
 - **Chess Challenge** -  Participated in a small coding challenge
-
----
-
-
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/maximilian-roth-13717b237" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Maximilian%20Roth-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
 
