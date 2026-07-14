@@ -10,7 +10,7 @@
 ### Current Projects
 - **Ant simulator** — experimenting with simulations and ant behaviour
 - **Better Hunt** — a small mobile game just to learn
-- **Godot template** — reusable mobile 2D structure for faster prototyping   
+- **Human** - a concept how we can make the internet more Human and less bot friendly
 - **Ranked** - a leaderboard app
   
 ---
