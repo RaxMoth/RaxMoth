@@ -20,6 +20,7 @@
 - **Algolia matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
 - **SnakeFusion** — Fork to run it on a Raspberry pi with a touch UI
 - **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Terraform, Godot, Go)
+- **Multiple Websites** - Just check them out if interested
 
 ---
 
