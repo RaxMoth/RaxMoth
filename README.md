@@ -10,7 +10,7 @@
 ### Current Projects
 - **Ant simulator** — experimenting with simulations and ant behaviour
 - **Better Hunt** — a small mobile game just to learn
-- **Human** - a concept how we can make the internet more Human and less bot friendly
+- **Human** - a concept how we can make the internet more human and less bot friendly
 - **Ranked** - a leaderboard app
 - **1v1lol** - learn 2d MOBA mechanics
   
