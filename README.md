@@ -13,13 +13,14 @@
 - **Human** - a concept how we can make the internet more human and less bot friendly
 - **Ranked** - a leaderboard app
 - **1v1lol** - learn 2d MOBA mechanics
+- **Factorio duplicate** - learn heavy node handling 
   
 ---
 
 ### Finished Projects
 - **Algolia matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
 - **SnakeFusion** — Fork to run it on a Raspberry pi with a touch UI
-- **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Terraform, Godot, Go)
+- **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Godot, Go, HTMX/GO)
 - **Multiple Websites** - Just check them out if interested
 
 ---
