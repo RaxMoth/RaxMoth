@@ -8,8 +8,8 @@
 ---
 
 ### Current Projects
-- **Ant simulator** — experimenting with simulations and ant behaviour
-- **Better Hunt** — a small mobile game just to learn
+- **Ant simulator** - experimenting with simulations and ant behaviour
+- **Better Hunt** - a small mobile game just to learn
 - **Human** - a concept how we can make the internet more human and less bot friendly
 - **Ranked** - a leaderboard app
 - **1v1lol** - learn 2d MOBA mechanics
@@ -18,15 +18,15 @@
 ---
 
 ### Finished Projects
-- **Algolia matcher** — a tool to get all exhibitors and match them with your linkedIn contacts
-- **SnakeFusion** — Fork to run it on a Raspberry pi with a touch UI
-- **Fullstack App templates** -  Full FE / BE structure for faster prototyping (React, Godot, Go(Gin), HTMX/GO, Flutter)
+- **Algolia matcher** - a tool to get all exhibitors and match them with your linkedIn contacts
+- **SnakeFusion** - Fork to run it on a Raspberry pi with a touch UI
+- **Fullstack App templates** - Full FE / BE structure for faster prototyping (React, Godot, Go(Gin), HTMX/GO, Flutter)
 - **Multiple Websites** - Just check them out if interested
 
 ---
 
 ### Fun Projects (wont implement further)
-- **Sudoku solver with backtracking** — solve all Sudokus in seconds
-- **RockPagerScissorsSimulator** — rebuild a small game from a trending tweet 
-- **Chess Challenge** -  Participated in a small coding challenge
+- **Sudoku solver with backtracking** - solve all Sudokus in seconds
+- **RockPagerScissorsSimulator** - rebuild a small game from a trending tweet 
+- **Chess Challenge** - Participated in a small coding challenge
 
